@@ -1,1 +1,0 @@
-# css-photo-gallery-cats
